@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+seaborn
+networkx
+pandas
+bokeh
+ndlib
+jupyter
